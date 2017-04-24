@@ -1,0 +1,10 @@
+﻿  Skeleton.cpp
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(251): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(252): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\onedrive\grafika\opengl\programs\skeleton\skeleton\skeleton.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Skeleton.vcxproj -> C:\Users\user\OneDrive\Grafika\opengl\Programs\Skeleton\bin\Skeleton.exe
